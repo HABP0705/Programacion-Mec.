@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include <stdio.h>  //biblioteca
+ //Promedio curso.
+ // El programa, al recibir como dato el promedio de un alumno en un curso universitario, escribe aprobado si su promedio es mayor o igual a 6.
+
 
 int main() {
     float PRO;  // variable de tipo flotante para almacenar el promedio

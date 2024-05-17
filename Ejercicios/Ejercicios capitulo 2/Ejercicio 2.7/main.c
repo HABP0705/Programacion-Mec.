@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//ventas descendentes.
+//El programa, al recibir como datos tres valores que representan las ventas de los vendedores de una tienda de discos, escribe las ventas en  orden descendente.
 
 
 int main() // Función principal del programa
