@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//El programa evalúa un número ingresado (1-6) y muestra mensajes según el valor: "No has ganado" para 1-4, "Felicitaciones, has ganado" para 5-6, y "ERROR" fuera del rango.
 
 
 int main()
