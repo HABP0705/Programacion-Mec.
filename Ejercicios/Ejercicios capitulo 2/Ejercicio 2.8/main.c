@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//El programa, al recibir como datos la matrícula, la carrera, el semestre y el promedio de un alumno de una universidad privada, determina si éste puede ser asistente de su carrera o no.
+
+
 int main()
 {
     int Matricula, Carrera, Semestre; // variables enteras para Matricula, Carrera y Semestre.
