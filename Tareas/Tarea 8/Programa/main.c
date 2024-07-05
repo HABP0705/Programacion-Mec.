@@ -85,7 +85,7 @@ void grabarDato(Alumno **alumnos, int *count)
 
 void leerDisco(Alumno **alumnos, int *count)
 {
-    FILE *file = fopen("alumnos.dat", "rb");
+    FILE *file = fopen("alumnos.txt", "rb");
     if (file == NULL)
     {
         printf("No se pudo abrir el archivo.\n");
