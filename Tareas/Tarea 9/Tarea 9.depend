@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1721495249 source:c:\users\dell5590\onedrive\escritorio\itla\asignaturas\asignaturas 2024-c-2\ppm\tarea 9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
